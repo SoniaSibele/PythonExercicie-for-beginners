@@ -1,5 +1,9 @@
 #Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério
 # baseado no salário atual
+#salários até 18.000$00 (incluído): aumento de 20% 
+#salários entre 18.000$00 e 27.000$00 (incluído): aumento de 15% 
+#salários entre 27.000$00e 45.000$00 (incluído): aumento de 10% 
+#salários de 45.000$00 em diante: aumento de 5% 
 salario = float(input("Digite o seu salário: "))
 
 if (salario <=  18.000):
