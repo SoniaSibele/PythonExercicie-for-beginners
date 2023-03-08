@@ -1,4 +1,5 @@
-#Uma fruteira está vendendo frutas com a seguinte tabela de preços: 
+#Uma fruteira está vendendo frutas com a seguinte tabela de preços....
+
 morangos = int(input("Digite a quantidade de morangos [kg]: "))
 macas = int(input("Digite a quantidade de maças [kg]: "))
 preco_morango1 = morangos * 250
