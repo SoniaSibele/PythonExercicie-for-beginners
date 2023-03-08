@@ -1,4 +1,4 @@
-#Equação segundo grau 
+#Faça um programa que calcule as raízes de uma equação do segundo grau, na forma ax2 + bx + c
 import math
 print('Equaçao do 2o grau da forma: ax² + bx + c')
 
