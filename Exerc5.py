@@ -1,5 +1,9 @@
 #Faça um Programa para um caixa eletrônico. O programa deverá perguntar ao utilizador o valor 
 #a ser levantado e depois informar quantas notas de cada valor serão fornecidas.
+#As notas disponíveis são de 200, 500, 1.000, 2.000, 5.000 escudos. O valor mínimo é de 200 escudos e o 
+#máximo de 20.000 escudos. O programa não deve se preocupar com a quantidade de notas 
+#existentes na máquina. 
+
 print("Valor mínimo a ser levantado: 200$.")
 print("Valor máximo a ser levantado: 20.000$.")
 saque = int(input("Valor do a ser levantado: ")) 
