@@ -1,3 +1,6 @@
+#desenvolver um programa que leia as um 
+#conjunto indeterminado de temperaturas, e informe ao final a menor e a maior temperatura 
+#informadas, bem como a média das temperaturas. A
 temp = [-10, -8, 0, 1, 2, 5, -2, -4]
 mínima = temp[0]  # temp  minima primeiro elemento da lista 
 máxima = temp[0]
