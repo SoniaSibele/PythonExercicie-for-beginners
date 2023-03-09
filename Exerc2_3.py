@@ -1,3 +1,10 @@
+#Faça um programa que leia 5 números e informe: 
+# o maior número; 
+# o menor número; 
+# a soma dos números; 
+# a média dos números. 
+
+
 numeros = []
 for num in range(1, 6):
     numeros.append(int(input("Digite um numero: ")))
