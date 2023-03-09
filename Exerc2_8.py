@@ -1,4 +1,6 @@
-num = int(input ("\nDigite um numero inteiro para saber se é primo: "))
+#Faça um programa que peça um número inteiro e determine se ele é ou não um número primo.
+
+num = int(input ("\nDigite um numero inteiro: "))
 cont = 0
 div = []
 for i in range(num):
