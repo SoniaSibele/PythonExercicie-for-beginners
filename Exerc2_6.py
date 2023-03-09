@@ -3,12 +3,6 @@
 #anterior = 0
 #proximo = 0
 n = int(input("Introduz o valor de n: "))
-#while(proximo < n):
-  #print(proximo)
-  #proximo = proximo + anterior
-  #anterior = proximo - anterior
-  #if(proximo == 0):
-    #proximo = proximo + 1
 def fibo(n):
     if n==1:
       return 0
