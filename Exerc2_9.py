@@ -1,3 +1,6 @@
+#Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido 
+#pelo utilizador. O programa deverá mostrar também o número de divisões que ele executou 
+#para encontrar os números primos. 
 
 numero = int(input("Digite um numero inteiro: "))
 if numero == 1 or numero == 2:
